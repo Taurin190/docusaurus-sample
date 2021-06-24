@@ -11,7 +11,7 @@ module.exports = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'Taurin190', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    projectName: 'docusaurus-sample', // Usually your repo name.
     themeConfig: {
         navbar: {
             title: 'My Site',
